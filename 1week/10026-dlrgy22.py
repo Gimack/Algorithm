@@ -1,4 +1,4 @@
-ㅇimport sys
+import sys
 import queue
 def not_blindness(arr,N):
     q = queue.Queue()
